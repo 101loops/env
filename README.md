@@ -4,11 +4,13 @@ env [![GoDoc](https://camo.githubusercontent.com/6bae67c5189d085c05271a127da5a4b
 This Go package provides application environments.
 
 
-### Installation
-`go get github.com/101loops/env`
+## Install
+```bash
+go get github.com/101loops/env
+```
 
-### Documentation
+## Documentation
 [godoc.org](http://godoc.org/github.com/101loops/env)
 
-### License
+## License
 MIT (see LICENSE).
